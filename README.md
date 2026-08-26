@@ -10,3 +10,8 @@ Skills Validation Workshop.
 - [Challenge 3: Developing Multi-Agent Systems](./challenge-3-multi-agent-systems/multi_agent_weather_search.ipynb)
 - [Challenge 4: Programming an Agent Workflow](./challenge-4-agent-workflow/agent_workflow.ipynb)
 - [Bonus Challenge 5: Deploying Agents](./bonus-challenge-5-deploying-agents/deploy_agent.ipynb)
+- [Challenge 6 (Case Study): ReadyNow! FEMA Emergency Preparedness Assistant](./challenge-6-readynow-fema-assistant/readynow.ipynb)
+
+## Case Study architecture
+
+![ReadyNow! architecture diagram](./architecture-diagram.png)
