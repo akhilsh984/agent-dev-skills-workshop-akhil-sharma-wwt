@@ -9,3 +9,4 @@ Skills Validation Workshop.
 - [Challenge 2: Enhancing Agents with Callbacks](./challenge-2-enhancing-agents-with-callbacks/weather_alerts_agent_with_callbacks.ipynb)
 - [Challenge 3: Developing Multi-Agent Systems](./challenge-3-multi-agent-systems/multi_agent_weather_search.ipynb)
 - [Challenge 4: Programming an Agent Workflow](./challenge-4-agent-workflow/agent_workflow.ipynb)
+- [Bonus Challenge 5: Deploying Agents](./bonus-challenge-5-deploying-agents/deploy_agent.ipynb)
