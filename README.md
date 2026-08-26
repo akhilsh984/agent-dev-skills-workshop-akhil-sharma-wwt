@@ -6,3 +6,4 @@ Skills Validation Workshop.
 ## Challenges
 
 - [Challenge 1: Real-Time Weather Alerts Agent](./challenge-1-weather-alerts-agent/weather_alerts_agent.ipynb)
+- [Challenge 2: Enhancing Agents with Callbacks](./challenge-2-enhancing-agents-with-callbacks/weather_alerts_agent_with_callbacks.ipynb)
